@@ -1,0 +1,1 @@
+In this session I'm going to learn Hibernate
